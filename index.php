@@ -18,13 +18,13 @@
           </button>
           <a class="brand" href="#">Barista</a>
           <div class="nav-collapse collapse">
-            <p class="navbar-text pull-right">
-              Logged in as <a href="#" class="navbar-link">Username</a>
-            </p>
             <ul class="nav">
               <li class="active"><a href="#">Orders</a></li>
             </ul>
           </div><!--/.nav-collapse -->
+          <form class="navbar-form pull-right">
+            <button type="submit" class="btn">Sign in</button>
+          </form>
         </div>
       </div>
     </div>
